@@ -1,0 +1,10 @@
+dependencies:
+ - name: leaflet
+   version: 1.6.0
+   src: "htmlwidgets/lib/leaflet"
+   script: leaflet.js
+   stylesheet: leaflet.css
+ - name: d3
+   version: 5.16.0
+   src: htmlwidgets/lib/d3
+   script: d3.js
